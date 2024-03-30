@@ -1,0 +1,23 @@
+body {
+  margin: 0;
+  min-width: 320px;
+  min-height: 100vh;
+  color: rgba(255, 255, 255, 0.87); /* para texto */
+  background-color: #242424; /* para fondo */
+}
+
+
+#root {
+  width: 100%; 
+  min-height: 100vh; 
+}
+
+
+@media (prefers-color-scheme: light) {
+ 
+}
+
+.active {
+  color: darkgreen;
+  }
+  
